@@ -2,7 +2,7 @@
 ## Organização do Repositório
 
 
-/
+
 ├── teoria/
 │   └── resumo_teorico.docx       ← Resumo conceitual dos tópicos
 ├── simulacoes/
