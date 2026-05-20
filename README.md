@@ -1,7 +1,7 @@
 # PDS – Estudo Dirigido Parte 3
 ## Organização do Repositório
 
-
+```
 
 ├── teoria/
 │   └── resumo_teorico.docx       ← Resumo conceitual dos tópicos
@@ -29,7 +29,7 @@
 │   ├── questao09.ofig              ← Harmônicos e vibração mecânica
 │   └── questao10.ofig              ← Análise de sinal real simulado└── 
 └── README.md
-
+```
 ## Como Executar
 
 Os scripts foram desenvolvidos para Octave.  
